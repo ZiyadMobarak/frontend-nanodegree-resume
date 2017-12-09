@@ -28,7 +28,7 @@ var bio = {
     "Research"
   ],
 
-  "biopic": "images/myPic.jpg",
+  "biopic": "images/myPic.JPG",
 
   display: function() {
     //Display name and my role
